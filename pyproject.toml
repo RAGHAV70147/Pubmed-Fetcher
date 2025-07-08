@@ -1,0 +1,12 @@
+[tool.poetry]
+name = "pubmed-fetcher"
+version = "0.1.0"
+description = "CLI to fetch PubMed papers with non-academic authors"
+authors = ["Your Name <your@email.com>"]
+
+[tool.poetry.scripts]
+get-papers-list = "cli:main"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+requests = "^2.31.0"
