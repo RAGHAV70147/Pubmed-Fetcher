@@ -52,10 +52,3 @@ The output CSV will contain:
 - Publication Date
 - Company Affiliation(s)
 
-## License
-
-MIT License
-
----
-
-Made with ❤️ for the scientific community.
